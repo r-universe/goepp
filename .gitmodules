@@ -8,3 +8,8 @@
 	url = https://github.com/goepp/aspline
 	shallow = true
 	registered = true
+[submodule "graphseg"]
+	path = graphseg
+	url = https://github.com/goepp/graphseg
+	shallow = true
+	registered = true
