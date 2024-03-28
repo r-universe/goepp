@@ -5,6 +5,3 @@
 [submodule "aspline"]
 	path = aspline
 	url = https://github.com/goepp/aspline
-[submodule "graphseg"]
-	path = graphseg
-	url = https://github.com/goepp/graphseg
